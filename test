@@ -10,7 +10,7 @@ public class TestingAround {
                     s.charAt(i) == 'i' || s.charAt(i) =='o' ||
                     s.charAt(i) == 'u' || s.charAt(i) == 'y') {
             numValues += 1;
-            System.out.println(numValues);
+            //System.out.println(numValues);
             }
         }
         return numValues;
